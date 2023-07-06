@@ -1,6 +1,6 @@
 const FUKA_CONFIG = {
 
-  POST_LIST_COVER: true, // 文章列表显示图片封面
+  POST_LIST_COVER: false, // 文章列表显示图片封面
   POST_LIST_PREVIEW: false, // 显示文章预览
 
   // 菜单
